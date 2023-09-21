@@ -1,0 +1,11 @@
+
+.personal-data h1{
+
+    font-size: 2rem;
+    color: orangered;
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+    background-color: cadetblue;
+    background-image: url(https://hypescience.com/wp-content/uploads/2017/03/sol.jpg);
+}
